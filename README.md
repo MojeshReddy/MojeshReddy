@@ -14,10 +14,7 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 
 ## 💻 Projects
 
-### 🐜 ANT LINUX - A Lightweight, Efficient and LLM-Integrated OS
-- **Minimal Design & High Performance**: Ant Linux is designed for fast boot times and fluid user experience, making it perfect for both high-end and everyday computing.
-- **LLM Integration**: Unlocks advanced possibilities by utilizing an LLM for tasks like automation, content generation, and more.
-- **Clean Aesthetic**: Prioritizes a distraction-free workspace with sleek visuals and smooth animations.
+
 
 ### 🖥️ MINI-COMPUTER
 - **Compressed Power**: This project introduces a smaller, yet more powerful version of the traditional CPU, featuring **Windows 11** and **Intel i5 4510** with integrated graphics.
