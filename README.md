@@ -99,4 +99,5 @@ I am a passionate Computer Science Engineering student at **Lovely Professional 
 
 ### **Achievements**  
 - Secured a **CGPA of 9.9** in SSC (Certificate of Higher Education).  
-- Consistently ranked among the top performers in academic and technical projects.  
+- Consistently ranked among the top performers in academic and technical projects.
+
