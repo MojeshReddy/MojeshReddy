@@ -47,8 +47,6 @@ I’m a <b>B.Tech Computer Science student</b> at Lovely Professional University
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -65,6 +63,51 @@ I’m a <b>B.Tech Computer Science student</b> at Lovely Professional University
 </div>
 
 ###
+## 📂 Projects  
+
+🔹 **DevSecOps Pipeline for Tic Tac Toe Game** (May 2025)  
+Built a CI/CD pipeline using **GitHub Actions, Docker, Kubernetes, and ArgoCD** with automated testing, code scanning (Trivy), and GitOps delivery.  
+
+🔹 **Authentication Bypass Research using Burp Suite** (Mar 2025)  
+Discovered OTP vulnerabilities, performed traffic interception, and recommended **secure OTP validation principles**.  
+
+🔹 **CI/CD Pipeline for Java Application** (Jan 2025)  
+Implemented automated builds, tests, and deployments with **Jenkins, SonarQube, Docker, Kubernetes, and ArgoCD**.  
+
+---
+
+## 🎓 Training & Experience  
+
+- **Cybersecurity Training – Quality Thought** (Dec 2024 – May 2025)  
+  Hands-on training in **network security, threat detection, incident response, penetration testing**, and ethical hacking.  
+
+- **Junior Technical Intern – APSRTC** (Nov 2022 – Jul 2023)  
+  Supported digital ticketing systems, resolved customer queries, and gained real-world IT operations experience.  
+
+---
+
+## 🏆 Certifications  
+
+- Oracle Certified Foundations Associate (Mar 2025)  
+- Developing Secure Software – The Linux Foundation (Jan 2025)  
+- Google Cybersecurity – Coursera (Dec 2024)  
+- Introduction to IoT – NPTEL (Oct 2024)  
+
+---
+
+## 📌 Co-Curricular & Leadership  
+
+- Conducted **security vulnerability assessments** on websites.  
+- Performed **SQL injection testing** in controlled labs.  
+- **Event Coordinator** – Smart India Hackathon (Dec 2024).  
+- **Event Coordinator** – Gear Up Season 3 Hackathon (Oct 2024).  
+
+---
+
+## 🎓 Education  
+
+**B.Tech – Computer Science & Engineering**  
+Lovely Professional University, Punjab (Expected May 2026)  
 
 <h3 align="left">🔥 My Stats</h3>
 
